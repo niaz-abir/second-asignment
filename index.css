@@ -327,7 +327,6 @@
     flex-wrap: wrap;
   }
   .heading-part {
-    display: grid;
     grid-template-columns: 1fr;
     justify-content: center;
     align-items: center;
@@ -340,7 +339,7 @@
     color: red;
   }
   .heading-info {
-    height: 240px;
+    height: 270px;
   }
   .heading-info h1 {
     font-size: 15px;
