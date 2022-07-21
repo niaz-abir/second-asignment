@@ -330,7 +330,7 @@
     grid-template-columns: 1fr;
     justify-content: center;
     align-items: center;
-    gap: 50px;
+    gap: 20px;
   }
   .main-navigation {
     border: 1px solid rgb(114, 212, 114);
